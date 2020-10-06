@@ -1,1 +1,1 @@
-# edge-rtc-experiment
+# edge-arduino-template
